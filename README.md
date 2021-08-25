@@ -2,6 +2,10 @@
 This is a FiveM sound mod client-side : Helicopter, Guns, Tire skid, Weather, Emergency sirens, And much more! 
 Thoose mods that have been used in the mod are not mine and all the credits goes to it's creators, it's a cluster of many different mods many of which are from LSPDFR and GTA5Mods.
 
+DOWNLOAD LINK : 
+
+https://drive.google.com/drive/folders/1AufzRkdW2s2m2OpEQcGDaWxEDrRBxEYN?usp=sharing
+
 To install the sound mods you would need to go to your GTA 5 directory < which could be Rockstar Games Launcher, Steam Or Epic Games. 
 
 To install for Rockstar Games Launcher go to : C:\Program Files\Rockstar Games\Grand Theft Auto V\x64\audio\sfx and simply do Drag & Drop it would ask you to replace.
